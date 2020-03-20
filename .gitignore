@@ -1,0 +1,12 @@
+#ignore python notebooks checkpoints
+.ipynb_checkpoints
+
+#data
+*.csv
+*.json
+*.pdf
+*.txt
+
+#folders from macosx
+.DS_Store
+.Rhistory
